@@ -1,0 +1,10 @@
+.env
+.env.example
+.pytest_cache/
+__pycache__/
+streamlit.err.log
+streamlit.out.log
+data/
+
+企业文档知识问答系统_项目方案.md
+中国华能集团企业文化.pdf
